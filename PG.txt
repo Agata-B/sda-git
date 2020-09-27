@@ -1,2 +1,3 @@
 PG
 Dodana druga linia txt
+Dodanie trzeciej lini tekstu. Bla bla bla :)
